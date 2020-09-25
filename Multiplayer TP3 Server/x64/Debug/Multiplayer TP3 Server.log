@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\git\multiplayer-parcial-1-server\multiplayer tp3 server\main.cpp(112): warning C4101: 'buf': unreferenced local variable
+e:\rodrigo\ic\3-2\multiplayer\entrega parcial 1\git\multiplayer-parcial-1-server\multiplayer tp3 server\main.cpp(86): warning C4101: 'ficha': unreferenced local variable
+  Player.cpp
+  TicTacToe.cpp
+  Generating Code...
+  Multiplayer TP3 Server.vcxproj -> E:\Rodrigo\IC\3-2\Multiplayer\Entrega Parcial 1\Git\Multiplayer-Parcial-1-Server\x64\Debug\Multiplayer TP3 Server.exe
